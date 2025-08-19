@@ -7,7 +7,7 @@
 </div>
 -->
 <h3 align="center"> 🎓 B.Tech in Information Technology (2025) from DDU Gorakhpur University</h3>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="200px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="180px"/>
 
 <h3 align="left">💻 Passionate about Data Analysis ,Frontend Development  & Machine Learning </h3>  
 <h3 align="left">🚀 Always exploring ways to build scalable Websites and  smarter ML models</h3>  
@@ -115,6 +115,7 @@
 💼 Interested in **Frontend Development, Data Analytics, and Machine Learning**  
 🎓 Final-year B.Tech IT student, always eager to **learn and build new projects**  
 📧 Let’s connect: [ashishdeep800@gmail.com](mailto:ashishdeep800@gmail.com)
+
 ---
 
 > *“✨ Passionate about coding, data, and web development. Still learning, but excited to grow and contribute.”*
