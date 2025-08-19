@@ -7,11 +7,11 @@
 </div>
 -->
 <h3 align="center"> 🎓 B.Tech in Information Technology (2025) from DDU Gorakhpur University</h3>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="200px"/>
 
-<h3 align="left"> 💻 Passionate about Data Analysis ,Frontend Development  & Machine Learning </h3>  
-<h3 align="left"> 🚀 Always exploring ways to build scalable Websites and  smarter ML models</h3>  
-<h3 align="left">📊 Combining frontend development with data analytics to build smarter, user-focused solutions</h3>  
-
+<h3 align="left">💻 Passionate about Data Analysis ,Frontend Development  & Machine Learning </h3>  
+<h3 align="left">🚀 Always exploring ways to build scalable Websites and  smarter ML models</h3>  
+<h3 align="left">📊 Blending frontend development with data analytics for better user solutions</h3>  
 
 <p align="center">
   <a href="https://github.com/AshishDS-09">
@@ -24,13 +24,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-Ashish%20Deep%20Sen-blue?logo=linkedin&style=flat-square" />
   </a>
 </p>
-
 <!--<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> emoji
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 -->
 <hr style="border: 1px solid #4CAF50;">
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
 <p align="left">
@@ -39,7 +37,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AshishDS-09](https://github.com/AshishDS-09)  
 - 💬 Ask me about **Building Responsive Website & Analyzing Data**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">  
-- 📫 How to reach me **ashishdeep800@gmail.com**
+- 📫 How to reach me **ashishdeep800@gmail.com**<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 ---
 
 <h3 align="left">🌐 Connect with me:</h3>
@@ -117,5 +115,6 @@
 💼 Interested in **Frontend Development, Data Analytics, and Machine Learning**  
 🎓 Final-year B.Tech IT student, always eager to **learn and build new projects**  
 📧 Let’s connect: [ashishdeep800@gmail.com](mailto:ashishdeep800@gmail.com)
+---
 
 > *“✨ Passionate about coding, data, and web development. Still learning, but excited to grow and contribute.”*
