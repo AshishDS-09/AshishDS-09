@@ -105,8 +105,9 @@
 ---
 
 ## 📜 Certifications  
-- **Ethical Hacking (NPTEL - IIT Kharagpur)** – Scored 84% (2024)  
-- **Machine Learning Using Python (NIELIT, 2024)**  
+- 🎓 **Ethical Hacking (NPTEL - IIT Kharagpur)** – Scored 84% (2024)  
+- 🤖 **Machine Learning Using Python (NIELIT)** – 2024  
+- 📊 **Data Science, AI & ML (Talent Battle)** – 100 Hours Certification (2025)
 ---
 
 ### 🌐 About Me & 🤝 Open to Collaborations  
