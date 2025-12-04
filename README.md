@@ -77,11 +77,9 @@
 
 <h3>📊 GitHub Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshishDS-09&layout=compact&theme=tokyonight&locale=en&hide_border=true" alt="Top Langs" /></p>
+<p><img align="left" src="https://github-readme-stats-github-readme-stats-team.vercel.app/api/top-langs/?username=AshishDS-09&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AshishDS-09&show_icons=true&theme=tokyonight&locale=en&layout=compact&hide_border=true" alt="GitHub Stats" /></p>
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats-github-readme-stats-team.vercel.app/api?username=AshishDS-09&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /></p>
 
 
 
