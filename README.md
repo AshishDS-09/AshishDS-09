@@ -88,7 +88,19 @@
 
 ---
 
-## 💼 Experience  
+## 💼 Experience 
+
+### 💡 Data Analytics Intern – Labmentix *(2025)*
+
+- Worked on real datasets like Strava Fitness and Dubai Real Estate.
+
+- Cleaned and analyzed data using SQL and Python (Pandas, Matplotlib, Seaborn).
+
+- Created Power BI dashboards with KPIs and filters.
+
+- Performed EDA to find trends and insights.
+
+- Documented work and prepared reports for reviews.
 
 ### 💡 Full Stack Development Intern – Talent Battle *(Jul 2024 – Oct 2024)*  
 - Worked on web apps using React, Node.js, Express, and MongoDB
